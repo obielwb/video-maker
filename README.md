@@ -1,7 +1,9 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/filipedeschamps/video-maker) 
 
 # video-maker
-Projeto open source para fazer vídeos automatizados
+Projeto open source para fazer vídeos automatizados desenvolvido junto com Filipe Deschamps em sua playlist <a href="https://www.youtube.com/watch?v=kjhu1LEmRpY&list=PLMdYygf53DP4YTVeu0JxVnWq01uXrLwHi&t=0s">4 robôs que criam vídeos no youtube</a>
+
+<b>Abaixo estão os processos de instalação e execução do programa, disponibilizado no <a href="https://github.com/filipedeschamps/video-maker">repositório do projeto original</a></b>
 
 # Pré requisitos
 
